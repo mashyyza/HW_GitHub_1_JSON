@@ -1,0 +1,6 @@
+{ 
+"nummberOfProgram": 5
+"nameProgram": [ "Postman", "GitBush", "Jmeter", "Jira", "Swagger" ]
+"testDocumentation": [ "TestPlane","СheckList", "TestCase" ]
+"WebBasics": [ "HTML", "CSS" ]
+}
