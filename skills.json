@@ -1,7 +1,5 @@
-{
-"nummber of program":5
-"name program":{ "Postmaan", "GitBush", "Jmeter", "Jira", "Fidller"}
-"test documentation":{ "Test plane","Сheck list", "Test suite, "Test Case", "Bug report"}
-"test design"
-"Web basics":"HTML", :CSS"
+{ "nummber of program":5
+"name program":"Postmaan", "GitBush", "Jmeter", "Jira", "Fidller" ,
+"test documentation":"Test plane","Сheck list", "Test Case", "Bug report" ,
+"Web basics": "HTML", "CSS" 
 }
